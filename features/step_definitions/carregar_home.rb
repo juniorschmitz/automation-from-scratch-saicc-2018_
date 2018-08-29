@@ -6,5 +6,5 @@ Dado(/^que carreguei a home$/) do
 end
 
 Então(/^a página deverá ser apresentada$/) do
-
+  expect(@home).to have_header
 end

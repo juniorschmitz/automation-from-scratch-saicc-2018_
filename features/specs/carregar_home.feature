@@ -2,7 +2,7 @@
 #language: pt
 
 
-@load_home
+@carregar_home
 Funcionalidade: Home Stuff
   Como comercial
   Gostaria de possuir uma home com funcionalidades
