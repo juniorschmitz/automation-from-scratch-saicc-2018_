@@ -1,5 +1,5 @@
 # AutomationFromScratch
-Personal project created from scratch for BDD and Test automation trainning.
+Personal project created from scratch for BDD and Test automation trainning with Capybara, Ruby, Selenium Webdriver and Siteprism.
 
 For practicing, on the master branch there is the basic structure for creating an automation project from scratch.
 
